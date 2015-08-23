@@ -1,8 +1,8 @@
-fileURL - zip file to be downloaded
-dataActivityTest - Activity data for test 
-dataActivityTrain - Activity data for train
-dataSubjectTest - Subject data for test
-dataSubjectTrain - Subject data for train
+# fileURL - zip file to be downloaded
+# dataActivityTest - Activity data for test 
+## dataActivityTrain - Activity data for train
+## dataSubjectTest - Subject data for test
+## dataSubjectTrain - Subject data for train
 dataFeaturesTest - Features data for test
 dataFeaturesTrain - Features data for train
 dataActivity - Activity data for test + train
